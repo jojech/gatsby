@@ -16,7 +16,7 @@
   },
   "description": "Full Stack Software Engineer",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Mail"],
+    "from": ["LinkedIn", "Mail"],
     "showIcons": false
   }
 }
