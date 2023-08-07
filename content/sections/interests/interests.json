@@ -3,56 +3,56 @@
     {
       "label": "Next.js",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "PHP",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
       "label": "Node.js",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "AWS",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/high-voltage.png",
         "alt": ""
       }
     },
     {
       "label": "Swift (iOS)",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
       "label": "Java (Android)",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     }
