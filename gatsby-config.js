@@ -1,9 +1,10 @@
 module.exports = {
   plugins: [
     {
+      plugins: [`gatsby-plugin-gatsby-cloud`],
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
+        siteUrl: "https://portfolio.fifthj.com/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "My Minimal Portfolio", // Used in manifest.json
