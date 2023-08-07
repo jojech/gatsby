@@ -16,8 +16,8 @@ export default function IndexPage() {
       <Seo title="Jeremy Johnson Portfolio Site" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
         <AboutSection sectionId="about" heading="About Me" />
+        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={["Blog"]} />
         <InterestsSection sectionId="details" heading="Skills" />
         <ProjectsSection sectionId="features" heading="Projects" />
         <ContactSection sectionId="github" heading="Want to chat?" />

@@ -10,7 +10,7 @@
   },
   "title": "My name is Jeremy Johnson",
   "subtitle": {
-    "prefix": "I do all the setup ",
+    "prefix": "I do all the <code /> ",
     "highlight": "for you",
     "suffix": "."
   },
