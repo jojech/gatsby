@@ -2,7 +2,25 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ STARTED JUNE 22, 2023",
+      "category": "🧰 JOINED MARCH 28, 2022",
+      "title": "Speak4",
+      "description": 
+        "Recently received 'Product of the Year' and two-time winner of 'Best Advocacy Platform' (2022 & 2023) from CampaignTech.",
+      "tags": ["PHP", "AWS", "JavaScript", "Node.js"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Photo by Kelly Sikkema"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://speak4.co"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ FIRST COMMIT JUNE 22, 2023",
       "title": "Dicebender",
       "description": "Level up your gaming group with Dicebender -- where you can track all of your games and beat out your friends.",
       "tags": ["Hobby Project", "React", "Next.js", "CI/CD"],
@@ -17,27 +35,10 @@
           "url": "https://dicebender.com/"
         }
       ]
-    },
-    {
-      "visible": false,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/jojech"
   }
