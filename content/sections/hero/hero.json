@@ -10,11 +10,11 @@
   },
   "title": "My name is Jeremy Johnson",
   "subtitle": {
-    "prefix": "I do all the <code /> ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "The ",
+    "highlight": "Swiss Army Knife",
+    "suffix": " of <code/>"
   },
-  "description": "Full Stack Software Engineer",
+  "description": "Full Stack Senior Software Engineer",
   "socialProfiles": {
     "from": ["LinkedIn", "Mail"],
     "showIcons": false

@@ -22,7 +22,7 @@
       "visible": true,
       "category": "🕹️ FIRST COMMIT JUNE 22, 2023",
       "title": "Dicebender",
-      "description": "Level up your gaming group with Dicebender -- where you can track all of your games and beat out your friends.",
+      "description": "Level up your gaming group with Dicebender -- where you can track all of your games and win eternal bragging rights.",
       "tags": ["Hobby Project", "React", "Next.js", "CI/CD"],
       "image": {
         "src": "../../images/horde.jpg",

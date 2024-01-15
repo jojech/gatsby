@@ -19,20 +19,20 @@ keywords:
 ---
 
 This week Speak4 received two more awards from CampaignTech: "Product of the Year" and "Best Advocacy Platform" (two years in a row!).
-This is big news for our small team! It's really exciting being a part of Speak4's growth
+This is big news for our small team! It's really exciting being a part of Speak4's journey as we've grown from a tiny team where I was the third full-time employee to a major competitor handling millions of advocates a day.
 
 # Projects
 
 Here's a short list of some of the projects I've completed in the past year:
-- Zapier -- building out an integration between our platform and Zapier connecting our app to over 5000 different platforms.
+- Zapier -- building out a custom integration between our platform and Zapier connecting our app to over 5000 different platforms.
 - Action Centers -- dynamic landingpages with a map of the U.S. directing users to relevant pages where they can take action.
 - Reporting Upgrades -- provide 10 new report types within our reporting dashboard along with a new streamlined interface and the ability to save/share reports.
 - Campaign Tagging -- the ability to add tags to political campaigns that help categorize client data in and outside of our app.
 - Campaign/LP Duplication -- quality of life improvements allowing users to duplicate their efforts easily.
 - Serverless Processing -- migrate the core functionality of our app to AWS Lambda increasing our server capacity by magnitudes.
 - Custom Domains -- give our users the ability to white label their pages by setting up their own custom domains on our app.
-- Petitions
-- Custom Fields -- add the ability for users to specify custom fields on our forms.
+- Petitions -- new functionality allowing clients to use Speak4 as the ideal place to store their advocate data.
+- Custom Fields -- unlock the potential of our landing pages by adding custom fields that link into our data reporting.
 - AI -- add an Artificial Intelligence helper that helps users set up their political campaigns.
 - Serverless Reports -- migrate our reporting service over to AWS Lambda removing our export limits and adding in scheduled reporting.
 - Documentation Site -- build and deploy an internal site with feature specs and FAQ.
