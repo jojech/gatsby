@@ -9,9 +9,7 @@
     "avatar": "../content/images/avatar.jpeg",
     "bio": "A full stack software developer with a keen interest in game mechanics, ttrpgs, and software development.",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/jojech",
-      "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/jojech/",
       "mail": "mailto:jojech@outlook.com"
     }
